@@ -1,0 +1,25 @@
+C:\Users\NgoniT\Documents\Visual Studio 2015\Projects\TesterStoryBoard\TesterStoryBoard\bin\Debug\TesterStoryBoard.exe.config
+C:\Users\NgoniT\Documents\Visual Studio 2015\Projects\TesterStoryBoard\TesterStoryBoard\bin\Debug\TesterStoryBoard.exe
+C:\Users\NgoniT\Documents\Visual Studio 2015\Projects\TesterStoryBoard\TesterStoryBoard\bin\Debug\TesterStoryBoard.pdb
+C:\Users\NgoniT\Documents\Visual Studio 2015\Projects\TesterStoryBoard\TesterStoryBoard\obj\Debug\TesterStoryBoard.csprojResolveAssemblyReference.cache
+C:\Users\NgoniT\Documents\Visual Studio 2015\Projects\TesterStoryBoard\TesterStoryBoard\obj\Debug\TesterStoryBoard.FirstCardSwipeFail.resources
+C:\Users\NgoniT\Documents\Visual Studio 2015\Projects\TesterStoryBoard\TesterStoryBoard\obj\Debug\TesterStoryBoard.Login.resources
+C:\Users\NgoniT\Documents\Visual Studio 2015\Projects\TesterStoryBoard\TesterStoryBoard\obj\Debug\TesterStoryBoard.Main.resources
+C:\Users\NgoniT\Documents\Visual Studio 2015\Projects\TesterStoryBoard\TesterStoryBoard\obj\Debug\TesterStoryBoard.Properties.Resources.resources
+C:\Users\NgoniT\Documents\Visual Studio 2015\Projects\TesterStoryBoard\TesterStoryBoard\obj\Debug\TesterStoryBoard.csproj.GenerateResource.Cache
+C:\Users\NgoniT\Documents\Visual Studio 2015\Projects\TesterStoryBoard\TesterStoryBoard\obj\Debug\TesterStoryBoard.exe
+C:\Users\NgoniT\Documents\Visual Studio 2015\Projects\TesterStoryBoard\TesterStoryBoard\obj\Debug\TesterStoryBoard.pdb
+C:\Users\NgoniT\Documents\Visual Studio 2015\Projects\TesterStoryBoard\TesterStoryBoard\obj\Debug\TesterStoryBoard.ManualLogin.resources
+C:\Users\NgoniT\Documents\Visual Studio 2015\Projects\TesterStoryBoard\TesterStoryBoard\obj\Debug\TesterStoryBoard.SelfTest.resources
+C:\Users\NgoniT\Documents\Visual Studio 2015\Projects\TesterStoryBoard\TesterStoryBoard\obj\Debug\TesterStoryBoard.MainTestMode.resources
+C:\Users\NgoniT\Documents\Visual Studio 2015\Projects\TesterStoryBoard\TesterStoryBoard\obj\Debug\TesterStoryBoard.SelfCheckFillTimeCheck.resources
+C:\Users\NgoniT\Documents\Visual Studio 2015\Projects\TesterStoryBoard\TesterStoryBoard\obj\Debug\TesterStoryBoard.SavingTestResults.resources
+C:\Users\NgoniT\Documents\Visual Studio 2015\Projects\TesterStoryBoard\TesterStoryBoard\obj\Debug\TesterStoryBoard.WeirTest.resources
+C:\Users\NgoniT\Documents\Visual Studio 2015\Projects\TesterStoryBoard\TesterStoryBoard\obj\Debug\TesterStoryBoard.GasTrainTest.resources
+C:\Users\NgoniT\Documents\Visual Studio 2015\Projects\TesterStoryBoard\TesterStoryBoard\obj\Debug\TesterStoryBoard.TankTest.resources
+C:\Users\NgoniT\Documents\Visual Studio 2015\Projects\TesterStoryBoard\TesterStoryBoard\obj\Debug\TesterStoryBoard.FILL.resources
+C:\Users\NgoniT\Documents\Visual Studio 2015\Projects\TesterStoryBoard\TesterStoryBoard\obj\Debug\TesterStoryBoard.TestInProgress.resources
+C:\Users\NgoniT\Documents\Visual Studio 2015\Projects\TesterStoryBoard\TesterStoryBoard\obj\Debug\TesterStoryBoard.FaultFindingMode.resources
+C:\Users\NgoniT\Documents\GitHub\Auto-Pressure-Leak-Test-Rig\TesterStoryBoard\TesterStoryBoard\bin\Debug\TesterStoryBoard.exe.config
+C:\Users\NgoniT\Documents\GitHub\Auto-Pressure-Leak-Test-Rig\TesterStoryBoard\TesterStoryBoard\obj\Debug\TesterStoryBoard.exe
+C:\Users\NgoniT\Documents\GitHub\Auto-Pressure-Leak-Test-Rig\TesterStoryBoard\TesterStoryBoard\obj\Debug\TesterStoryBoard.pdb
